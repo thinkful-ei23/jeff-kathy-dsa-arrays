@@ -69,7 +69,7 @@ class Array {
 
 }
 
-function main(){
+function main() {
 
     Array.SIZE_RATIO = 3;
 
