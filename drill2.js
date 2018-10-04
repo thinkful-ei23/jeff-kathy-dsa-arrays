@@ -74,3 +74,18 @@ function product(arr) {
 console.log(product([1, 3, 9, 4]))
 
 //2D array
+
+// Input: [4,6,-3,5,-2,1]
+// Output: 12
+
+function maxSum(arr) {
+
+    let sum = 0;
+    let bestSum = 0;
+
+    for (let i = 0; i < arr.length; i++) {
+        sum += arr[i];
+
+    }
+}
+
